@@ -14,9 +14,9 @@ const AddProduct = () => {
 
     return (
             <div className="">
-                <h2>Add a Product </h2>
+                <h2 className="pl-3.5 ">Add a Product </h2>
 
-                <div className=" ">
+                <div className="pl-3.5 ">
                     <form >
                     <div className="form-control w-full max-w-xs">
                         <label className="label">
